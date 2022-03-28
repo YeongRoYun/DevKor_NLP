@@ -1,7 +1,7 @@
-# DevKor_DevOps
+# DevKor_NLP
 
 ## Objective
-DevOps
+NLP
 
 ## Author
 Name: YeongRo Yun
